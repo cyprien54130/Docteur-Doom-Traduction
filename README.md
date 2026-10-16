@@ -5,3 +5,9 @@ Traducteur de jeux vidéo et multimédia en temps réel (Turbo 10ms) ! Idéal po
 - 🎥 Voir la démo GTA (1) : https://streamable.com/plshku
 - 🎥 Voir la démo GTA (2) : https://streamable.com/bn7qg4
 - 🎥 Voir la démo South Park : https://streamable.com/3kxvtl
+
+## Captures d'écran
+
+![Démo 1](1.PNG)
+![Démo 2](2.PNG)
+![Démo 3](3.PNG)
