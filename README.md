@@ -8,6 +8,7 @@ Consultez les schémas et l'architecture technique détaillés plus bas pour com
 - 🎥 Voir la démo GTA (1) : https://streamable.com/plshku
 - 🎥 Voir la démo GTA (2) : https://streamable.com/bn7qg4
 - 🎥 Voir la démo South Park : https://streamable.com/3kxvtl
+- Discord : https://github.com/cyprien54130/Realtime-Game-Translator-OCR-Piper
 
 ## Captures d'écran
 
