@@ -21,3 +21,5 @@ Consultez les schémas et l'architecture technique détaillés plus bas pour com
 ![Pipeline Temps Réel](Photo_2_Pipeline_Temps_Reel.png)
 ![Workflow Sécurité](Photo_3_Workflow_Securite.png)
 ![Schéma Global Logiciel](Schema_Global_Logiciel_Traduction.png)
+
+Discord  1560715186808295565
