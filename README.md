@@ -11,3 +11,10 @@ Traducteur de jeux vidéo et multimédia en temps réel (Turbo 10ms) ! Idéal po
 ![Démo 1](1.PNG)
 ![Démo 2](2.PNG)
 ![Démo 3](3.PNG)
+
+## Architecture et Schémas du Projet
+
+![Architecture Dictionnaires](Photo_1_Architecture_Dictionnaires.png)
+![Pipeline Temps Réel](Photo_2_Pipeline_Temps_Reel.png)
+![Workflow Sécurité](Photo_3_Workflow_Securite.png)
+![Schéma Global Logiciel](Schema_Global_Logiciel_Traduction.png)
