@@ -18,7 +18,6 @@ Consultez les schémas et l'architecture technique détaillés plus bas pour com
 
 ## Architecture et Schémas du Projet
 
-![Architecture Dictionnaires](Photo_1_Architecture_Dictionnaires.png)
-![Pipeline Temps Réel](Photo_2_Pipeline_Temps_Reel.png)
-![Workflow Sécurité](Photo_3_Workflow_Securite.png)
-![Schéma Global Logiciel](Schema_Global_Logiciel_Traduction.png)
+### Architecture et Schémas du Projet
+Consultez le schéma technique complet issu de la documentation :
+![Schéma Architecture](./1.PNG)
