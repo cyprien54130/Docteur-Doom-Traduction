@@ -16,8 +16,5 @@ Consultez les schémas et l'architecture technique détaillés plus bas pour com
 ![Démo 2](2.PNG)
 ![Démo 3](3.PNG)
 
-## Architecture et Schémas du Projet
-
-### Architecture et Schémas du Projet
-Consultez le schéma technique complet issu de la documentation :
-![Schéma Architecture](./1.PNG)
+## Architecture et Documentation
+* 📄 [Consulter la documentation technique (PDF)](./Docteur_Doom_Traduction_Documentation.pdf)
