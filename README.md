@@ -8,7 +8,7 @@ Consultez les schémas et l'architecture technique détaillés plus bas pour com
 - 🎥 Voir la démo GTA (1) : https://streamable.com/plshku
 - 🎥 Voir la démo GTA (2) : https://streamable.com/bn7qg4
 - 🎥 Voir la démo South Park : https://streamable.com/3kxvtl
--  :globe_with_meridians: Discord : https://discord.gg/htAQ56xvR
+-  :globe_with_meridians: Discord : https://discord.gg/PWGJYKp23g
 
 ## Captures d'écran
 
