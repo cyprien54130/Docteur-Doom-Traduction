@@ -23,7 +23,7 @@ Pour garantir la sécurité et l'authenticité de l'exécutable officiel `Docteu
 
 | Interface Principale | Paramétrage & Dictionnaire |
 | :---: | :---: |
-| ![Démo 1](1.PNG) | ![Démo 2](2.PNG) |
+| ![Démo 1](1.PNG) | ![Démo 2](2.PNG) | ![Démo 3](3.PNG) 
 
 *(Plus de visuels et l'installeur officiel `DocteurDoom_Traduction_Setup.exe` sont disponibles directement dans les salons de notre serveur Discord).*
 
