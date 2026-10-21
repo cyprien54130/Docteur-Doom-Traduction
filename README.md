@@ -12,6 +12,7 @@ Lecture OCR instantanée et synthèse vocale haute performance (**Piper TTS** av
 - 🎥 [Voir la démo GTA (2)](https://streamable.com/bn7qg4)
 - 🎥 [Voir la démo South Park](https://streamable.com/3kxvtl)
 - 📥 **[>> TÉLÉCHARGER LE LOGICIEL DIRECTEMENT SUR LE DISCORD <<](https://discord.gg/PWGJYKp23g)**
+- 📥 **[>> TÉLÉCHARGER LE LOGICIEL DEPUIS GOOGLE DRIVE <<](https://drive.google.com/file/d/1aLM1vHJoKWUUfsl9q2UOxRjAINr82VCG/view?usp=sharing)**
 
 ### 🔐 Certification & Signature de l'Installateur (Version Entreprise / Production)
 Pour garantir la sécurité, l'authenticité et l'intégrité de l'exécutable officiel `DocteurDoom_Traduction_Setup.exe`, voici les références cryptographiques de cette version professionnelle :
