@@ -11,11 +11,11 @@ Lecture OCR instantanée et synthèse vocale haute performance (**Piper TTS** av
 - 🎥 [Voir la démo GTA (1)](https://streamable.com/plshku)
 - 🎥 [Voir la démo GTA (2)](https://streamable.com/bn7qg4)
 - 🎥 [Voir la démo South Park](https://streamable.com/3kxvtl)
-- 🌐 [Rejoindre le serveur Discord officiel](https://discord.gg/PWGJYKp23g)
+- 📥 **[>> TÉLÉCHARGER LE LOGICIEL DIRECTEMENT SUR LE DISCORD <<](https://discord.gg/PWGJYKp23g)**
 
 ### 🔐 Certification & Signature de l'Installateur (Version Entreprise / Production)
 Pour garantir la sécurité, l'authenticité et l'intégrité de l'exécutable officiel `DocteurDoom_Traduction_Setup.exe`, voici les références cryptographiques de cette version professionnelle :
-- **Empreinte SHA-256 :** `955F89F9213E1C95C35DCB5E0793E35AEBE714A628A79BF1137E664479BFFF49`[cite: 3]
+- **Empreinte SHA-256 :** `955F89F9213E1C95C35DCB5E0793E35AEBE714A628A79BF1137E664479BFFF49`
 
 ---
 
@@ -25,7 +25,7 @@ Voici les écrans de configuration et de contrôle de la version **Édition Pro 
 
 | 1. Assistant & Validation des Conditions | 2. Tableau de Bord & Profils Cloud/Local | 3. Console Pilote & Logs en Direct |
 | :---: | :---: | :---: |
-| ![Interface 1](1.PNG)[cite: 4] | ![Interface 2](2.PNG)[cite: 5] | ![Interface 3](3.PNG)[cite: 6] |
+| ![Interface 1](1.PNG) | ![Interface 2](2.PNG) | ![Interface 3](3.PNG) |
 
 *(L'installeur officiel complet `DocteurDoom_Traduction_Setup.exe` est disponible directement dans le salon de téléchargement de notre serveur Discord).*
 
@@ -44,7 +44,7 @@ Voici les écrans de configuration et de contrôle de la version **Édition Pro 
 ## 🚀 Installation & Premier Lancement
 
 1. **Récupération de l'application :** 
-   - Téléchargez l'installeur officiel `DocteurDoom_Traduction_Setup.exe` directement depuis le salon `#téléchargements` sur notre Discord.
+   - Téléchargez l'installeur officiel `DocteurDoom_Traduction_Setup.exe` directement depuis le lien du serveur Discord un peu plus haut.
 2. **Assistant d'installation :** 
    - Lancez l'exécutable, laissez-vous guider par l'interface (avec musique rétro, choix du dossier et création automatique du raccourci Bureau).
 3. **Configuration des Clés (1er lancement) :**
