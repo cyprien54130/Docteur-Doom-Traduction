@@ -13,6 +13,10 @@ Lecture OCR instantanée et synthèse vocale haute performance (**Piper TTS** av
 - 🎥 [Voir la démo South Park](https://streamable.com/3kxvtl)
 - 🌐 [Rejoindre le serveur Discord officiel](https://discord.gg/PWGJYKp23g)
 
+### 🔐 Certification & Signature de l'Installateur (Version Entreprise / Production)
+Pour garantir la sécurité et l'authenticité de l'exécutable officiel `DocteurDoom_Traduction_Setup.exe`, voici l'empreinte cryptographique officielle de référence de la version :
+- **Empreinte SHA-256 :** `955F89F9213E1C95C35DCB5E0793E35AEBE714A628A79BF1137E664479BFFF49`[cite: 4]
+
 ---
 
 ## 📸 Captures d'écran
