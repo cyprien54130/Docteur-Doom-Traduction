@@ -20,7 +20,7 @@ Développé par **Cyprien Brisson** — un créateur passionné et altruiste qui
 - 🎥 [Voir la démo GTA (2)](https://streamable.com/bn7qg4)[cite: 21]
 - 🎥 [Voir la démo South Park](https://streamable.com/3kxvtl)[cite: 21]
 - 📥 **[>> REJOINDRE LE DISCORD OFFICIEL <<](https://discord.gg/PWGJYKp23g)**[cite: 21]
-- 📥 **[>> TÉLÉCHARGER LE LOGICIEL DEPUIS GOOGLE DRIVE <<](https://drive.google.com/file/d/1aLM1vHJoKWUUfsl9q2UOxRjAINr82VCG/view?usp=sharing)**[cite: 21]
+- 📥 **[>> TÉLÉCHARGER LE LOGICIEL DEPUIS GOOGLE DRIVE <<](https://drive.google.com/file/d/169Yyhl-D0YNg3nXpsJ9ezSHLwI28KQ-n/view?usp=drive_link)**[cite: 21]
 
 ### 🔐 Certification & Signature de l'Installateur (Version Entreprise / Production)
 Pour garantir la sécurité et l'intégrité de l'exécutable officiel `DocteurDoom_Traduction_Setup.exe` :
